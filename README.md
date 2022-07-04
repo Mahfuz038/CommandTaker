@@ -7,6 +7,7 @@ copy the command and paste it in your terminal.
 pip install commandtaker
 ```
 To import in python file copy the code and paste it on the top of your python file.
+```
 from commandtaker import cmndtkr
 ```
 To use this module call this function where you need. here is an example given below.
